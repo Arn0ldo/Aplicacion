@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Guiss.iml" filepath="$PROJECT_DIR$/Guiss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guicss.iml" filepath="$PROJECT_DIR$/guicss.iml" />
     </modules>
   </component>
 </project>
